@@ -1,7 +1,7 @@
 # 11. Дано число из отрезка [10, 99]. Показать наибольшую цифру числа
 
 import random
-a=random.randint(10,100)
+a=random.randint(10,99)
 print(a)
 b=a%10
 c=a//10
