@@ -20,6 +20,6 @@ def sum(list1,list2):
     for i in list1:
          res*=list2[list1[i]]
          print(res)
-         return res
+    return res
 
 print(sum(nums,list))         
